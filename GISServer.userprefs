@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{2D626457-D3B4-42FA-B855-D4928D8912BA}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/caowenpu/Desktop/GISServer/GISServer/GdalConfiguration.cs" relfile="GISServer/GdalConfiguration.cs" line="99" column="1" />
+      <Breakpoint file="/Users/caowenpu/Desktop/GISServer/GISServer/GdalConfiguration.cs" relfile="GISServer/GdalConfiguration.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GISServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
